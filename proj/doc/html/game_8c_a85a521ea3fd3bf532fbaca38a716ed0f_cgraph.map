@@ -1,0 +1,4 @@
+<map id="kbc_handle" name="kbc_handle">
+<area shape="rect" id="node2" href="$game_8c.html#aa814c1223e4515e27932c51a7f912f46" title="Check the scancode read from the keyboard to determine next action to take. " alt="" coords="141,5,260,32"/>
+<area shape="rect" id="node3" href="$game_8c.html#a3aa72275b77c585d13d35329ea363b5f" title="Checks if the input of a letter by the user corresponds to the one at index i in the sentence..." alt="" coords="151,56,251,83"/>
+</map>

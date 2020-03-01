@@ -1,0 +1,9 @@
+<map id="Game" name="Game">
+<area shape="rect" id="node2" href="$structname.html" title="Struct that stores the name of a player. " alt="" coords="110,95,165,121"/>
+<area shape="rect" id="node7" href="$structhigh_score.html" title="Struct that stores the information about a highscore. " alt="" coords="57,184,137,211"/>
+<area shape="rect" id="node3" href="$structletter.html" title="Information about a letter &#45; scancode, char, lower or upper case, sprite and xpm image. " alt="" coords="112,5,163,32"/>
+<area shape="rect" id="node4" href="$structresult.html" title="Indicates the result of a game. " alt="" coords="247,184,302,211"/>
+<area shape="rect" id="node5" href="$structreal_time.html" title="realTime" alt="" coords="5,95,77,121"/>
+<area shape="rect" id="node6" href="$structmouse.html" title="Mouse left button state and position. " alt="" coords="327,184,388,211"/>
+<area shape="rect" id="node8" href="$structgame_state.html" title="The state of the game. " alt="" coords="412,184,497,211"/>
+</map>

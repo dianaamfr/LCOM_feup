@@ -1,0 +1,26 @@
+<map id="timed_mode" name="timed_mode">
+<area shape="rect" id="node2" href="$game_8c.html#a1ccca907138b5e9af2569d8c0732b74b" title="Displays a 3 2 1 counter before the start of the game mode. " alt="" coords="187,151,281,178"/>
+<area shape="rect" id="node7" href="$game_8c.html#a4923d4462686f737bb06f5b0b7a2e596" title="Draw the initial game components for the Timed Mode on the screen. " alt="" coords="177,264,291,291"/>
+<area shape="rect" id="node13" href="$game_8c.html#af509280765b24e1f64cf2b348fdb4395" title="Calculates statistics to send to resultScreenTimed() to display. " alt="" coords="147,568,321,595"/>
+<area shape="rect" id="node15" href="$rtc_8c.html#ae2d4030307cef7e5e87606f7e09be07b" title="Subscribes interrupts to the RTC. " alt="" coords="183,746,285,772"/>
+<area shape="rect" id="node20" href="$game_8c.html#a530d0e0b6bcbf9dafa1bf9e3afd37259" title="Draw game components for Timed Mode on screen. " alt="" coords="175,416,293,443"/>
+<area shape="rect" id="node3" href="$vc_8c.html#a0cf63b55241db8e042bd55d93901566d" title="Draws an XPM on the screen at specified coordinates. " alt="" coords="594,442,718,468"/>
+<area shape="rect" id="node5" href="$vc_8c.html#a55c5883685bf347fccf094f10aa399e8" title="Get double buffer. " alt="" coords="593,188,719,215"/>
+<area shape="rect" id="node6" href="$vc_8c.html#a7ee6e37a02a10a3a6a0b8994b0cc01a2" title="Perform double buffering &#45; copy contents of the back buffer to the frame buffer. " alt="" coords="399,239,516,266"/>
+<area shape="rect" id="node4" href="$vc_8c.html#a82c7d64d78290967cdb6c47aefe16b78" title="Draw a pixel on the screen. " alt="" coords="767,467,851,494"/>
+<area shape="rect" id="node8" href="$vc_8c.html#a10e416c59639a7f6b6f9f8f020fdb8d0" title="Get horizontal resolution. " alt="" coords="421,290,493,316"/>
+<area shape="rect" id="node9" href="$vc_8c.html#a1c1b9a9c811575beb06fc355241ef17d" title="Get vertical resolution. " alt="" coords="421,340,493,367"/>
+<area shape="rect" id="node10" href="$game_8c.html#aa2a9eecf722be30effc443be4e32b075" title="Generate a random sentence from a array of sentences. " alt="" coords="369,138,545,164"/>
+<area shape="rect" id="node11" href="$vc_8c.html#a39f0bde9aaab6ed1432749a642471488" title="Draws sentence on the screen at specified coordinates. " alt="" coords="402,492,513,519"/>
+<area shape="rect" id="node12" href="$vc_8c.html#afbd4aed1170f23b5f48dddd79a957b33" title="Draws a letter on the screen. " alt="" coords="613,492,699,519"/>
+<area shape="rect" id="node14" href="$keyboard_8c.html#a50a84762c05cd5d0f1746b2ebef9b000" title="int" alt="" coords="637,619,675,646"/>
+<area shape="rect" id="node16" href="$rtc_8c.html#a2612ab4da31e866317aedbbc8cdadbc4" title="Checks if rtc is updating. " alt="" coords="415,796,499,823"/>
+<area shape="rect" id="node17" href="$rtc_8c.html#a8e562473fe7c6e414b655b0edee66138" title="Reads from RTC_DATA_REG what is in port. " alt="" coords="423,847,492,874"/>
+<area shape="rect" id="node18" href="$rtc_8c.html#abbc06d30fa1fc5a86e081a8adff67312" title="Checks if it is in bcd. " alt="" coords="436,695,479,722"/>
+<area shape="rect" id="node19" href="$rtc_8c.html#a372efb1351dcf0468894632441b12e9a" title="Converts num to binary if and only if it is in bcd. " alt="" coords="406,746,509,772"/>
+<area shape="rect" id="node21" href="$game_8c.html#adedf4c6f1ed84aa26f340279deba04fe" title="Draw the time elapsed since the start of the timed mode. " alt="" coords="394,442,521,468"/>
+<area shape="rect" id="node25" href="$vc_8c.html#a8fa2f951c438f58389b8888597a4d523" title="Draws the input from the user on the screen at specified coordinates. " alt="" coords="385,594,530,620"/>
+<area shape="rect" id="node22" href="$sentences_8c.html#a7e23ebebd89544f52813761ecd3aba09" title="Implement itoa() from C &#45; convert a value in a specific base to an array of chars. " alt="" coords="635,391,677,418"/>
+<area shape="rect" id="node23" href="$sentences_8c.html#ac8a933084935cebe42203f95291c8834" title="Reverse buffer[i..j] &#45; auxiliar function for itoa() " alt="" coords="776,391,841,418"/>
+<area shape="rect" id="node24" href="$sentences_8c.html#a5caa2956a259c15d67de63fcddff3e57" title="Swap two chars. " alt="" coords="899,391,952,418"/>
+</map>

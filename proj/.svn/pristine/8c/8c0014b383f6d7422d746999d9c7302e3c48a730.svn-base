@@ -1,0 +1,5 @@
+<map id="highScore" name="highScore">
+<area shape="rect" id="node2" href="$structname.html" title="Struct that stores the name of a player. " alt="" coords="5,95,60,121"/>
+<area shape="rect" id="node3" href="$structletter.html" title="Information about a letter &#45; scancode, char, lower or upper case, sprite and xpm image. " alt="" coords="7,5,58,32"/>
+<area shape="rect" id="node4" href="$structreal_time.html" title="realTime" alt="" coords="85,95,157,121"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="resultScreen" name="resultScreen">
+<area shape="rect" id="node2" href="$vc_8c.html#a0cf63b55241db8e042bd55d93901566d" title="Draws an XPM on the screen at specified coordinates. " alt="" coords="149,5,273,32"/>
+<area shape="rect" id="node4" href="$vc_8c.html#a55c5883685bf347fccf094f10aa399e8" title="Get double buffer. " alt="" coords="148,56,273,83"/>
+<area shape="rect" id="node5" href="$vc_8c.html#a10e416c59639a7f6b6f9f8f020fdb8d0" title="Get horizontal resolution. " alt="" coords="175,107,247,133"/>
+<area shape="rect" id="node6" href="$vc_8c.html#a1c1b9a9c811575beb06fc355241ef17d" title="Get vertical resolution. " alt="" coords="175,157,247,184"/>
+<area shape="rect" id="node7" href="$sentences_8c.html#a7e23ebebd89544f52813761ecd3aba09" title="Implement itoa() from C &#45; convert a value in a specific base to an array of chars. " alt="" coords="189,208,232,235"/>
+<area shape="rect" id="node10" href="$vc_8c.html#a7ee6e37a02a10a3a6a0b8994b0cc01a2" title="Perform double buffering &#45; copy contents of the back buffer to the frame buffer. " alt="" coords="152,259,269,285"/>
+<area shape="rect" id="node3" href="$vc_8c.html#a82c7d64d78290967cdb6c47aefe16b78" title="Draw a pixel on the screen. " alt="" coords="321,5,405,32"/>
+<area shape="rect" id="node8" href="$sentences_8c.html#ac8a933084935cebe42203f95291c8834" title="Reverse buffer[i..j] &#45; auxiliar function for itoa() " alt="" coords="331,208,396,235"/>
+<area shape="rect" id="node9" href="$sentences_8c.html#a5caa2956a259c15d67de63fcddff3e57" title="Swap two chars. " alt="" coords="453,208,507,235"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mouse_check_ack" name="mouse_check_ack">
+<area shape="rect" id="node2" href="$group__keyboard.html#ga075c2cba7a8cbeaa3c3b22660ad81460" title="Read Command from the Output Buffer &#45; in Lab3 reads return value from a KBC command. " alt="" coords="184,5,363,32"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable. " alt="" coords="411,5,501,32"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="gameStateHandler" name="gameStateHandler">
+<area shape="rect" id="node2" href="$timer_8c.html#ac57a7e1140a7e00ad95ac5488d2a671b" title="timer_subscribe_int" alt="" coords="212,5,347,32"/>
+<area shape="rect" id="node3" href="$group__mouse.html#gab70f0bd710edb4b5e9312c3ce2b4777c" title="Enable Data Reporting. " alt="" coords="198,56,361,83"/>
+<area shape="rect" id="node5" href="$group__keyboard.html#ga02884ada1971dbade466081413210b18" title="Subscribes and enables KBC&#39;s interrupts. " alt="" coords="216,157,343,184"/>
+<area shape="rect" id="node6" href="$group__mouse.html#ga20285aed4b3ef45812cd967532dd09db" title="Subscribe and enable Mouse&#39;s interrupts. " alt="" coords="207,208,352,235"/>
+<area shape="rect" id="node7" href="$mouse_8c.html#aed4404005e4c565ac36656307386e0ac" title="mouse_ih" alt="" coords="240,259,319,285"/>
+<area shape="rect" id="node9" href="$game_8c.html#aca85c5fc48080fe3e5fc63cbfd15e3dd" title="Handle mouse movements. " alt="" coords="455,208,565,235"/>
+<area shape="rect" id="node13" href="$keyboard_8c.html#aea970a154161a35f6894898a092ed70a" title="kbc_ih" alt="" coords="249,309,309,336"/>
+<area shape="rect" id="node15" href="$game_8c.html#a85a521ea3fd3bf532fbaca38a716ed0f" title="Perform game actions according to the game State. " alt="" coords="235,816,323,843"/>
+<area shape="rect" id="node18" href="$game_8c.html#a68ec565e0ad3115e9e89f967b0d85aae" title="Handles keyboard interruptions and validates scancodes to write the player&#39;s username. " alt="" coords="233,765,325,792"/>
+<area shape="rect" id="node19" href="$timer_8c.html#a91a2072306c68353712a6b771287dc2c" title="timer_int_handler" alt="" coords="219,867,340,893"/>
+<area shape="rect" id="node20" href="$game_8c.html#a384fd7bc5dd16b6f904889a9b44d0ca6" title="Draw menu components, buttons and mouse and go to game modes if buttons are pressed. " alt="" coords="233,461,326,488"/>
+<area shape="rect" id="node26" href="$game_8c.html#a6d636c5d37c022c2b68db53b8a4a6b87" title="Draw classic mode sentence,input and handle classic game mode state. " alt="" coords="228,563,331,589"/>
+<area shape="rect" id="node31" href="$game_8c.html#a98389bdfd88eb39ac7e97b7746a86887" title="Draw timed mode sentence,input and handle timed game mode state. " alt="" coords="233,512,326,539"/>
+<area shape="rect" id="node35" href="$game_8c.html#a6b53c7bdd4b90b905dd483f3e7dab7b7" title="Draws the results layout. " alt="" coords="463,765,557,792"/>
+<area shape="rect" id="node37" href="$game_8c.html#ae7ed124302f000fe36828382c93950aa" title="Go to main menu if button is pressed and save score if in Save Score mode. " alt="" coords="457,157,563,184"/>
+<area shape="rect" id="node41" href="$game_8c.html#a7a6196f9ae7dc4d6ac8cc52a16719141" title="Show a screen with the highest scores (top 5) " alt="" coords="446,917,574,944"/>
+<area shape="rect" id="node43" href="$game_8c.html#a26b9c84c114e6513e181679f76a97854" title="Shows a screen with a &quot;buffer&quot; where the user should enter a username to save the score..." alt="" coords="443,816,577,843"/>
+<area shape="rect" id="node44" href="$highscores_8c.html#a95c6dcf639e390bca793f07a378dfbff" title="Save the highscores in a file. " alt="" coords="224,917,335,944"/>
+<area shape="rect" id="node45" href="$sentences_8c.html#a7745112d26b762ba2d12b7f324710869" title="Destroys sentences, letters other related variables. " alt="" coords="184,968,375,995"/>
+<area shape="rect" id="node46" href="$vc_8c.html#a5c9a2ecbe4ff77b9dbe4ff3826682300" title="Free memory allocate for the double buffer. " alt="" coords="215,1019,344,1045"/>
+<area shape="rect" id="node47" href="$group__mouse.html#ga3ecf823d80520009ae5e0d76ae40a3c3" title="Unsubscribe Mouses&#39;s interrupts. " alt="" coords="200,1069,359,1096"/>
+<area shape="rect" id="node48" href="$group__keyboard.html#ga1102381e6a9e876e05dd78c58ccb5673" title="Unsubscribes KBC&#39;s interrupts. " alt="" coords="209,1120,350,1147"/>
+<area shape="rect" id="node49" href="$group__mouse.html#ga8af1c102bf50696674ef14cc377b80cc" title="Enable Data Reporting. " alt="" coords="196,107,363,133"/>
+<area shape="rect" id="node50" href="$timer_8c.html#afabd21de449be154dd65d5fdb2d8045d" title="timer_unsubscribe_int" alt="" coords="205,1171,354,1197"/>
+<area shape="rect" id="node4" href="$group__mouse.html#gac2d791ac2ef89e466be15a7d07af293c" title="Write a Mouse Command(reg 0xD4) &#45; written as argument of Kbc Write Mouse byte command. " alt="" coords="430,5,590,32"/>
+<area shape="rect" id="node8" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable. " alt="" coords="465,56,555,83"/>
+<area shape="rect" id="node10" href="$group__mouse.html#gadd0e2314743caac1dbf4e0b1cc6404a7" title="Construct a packet struct with the bits of a 3 byte packet. " alt="" coords="647,233,781,260"/>
+<area shape="rect" id="node11" href="$vc_8c.html#a10e416c59639a7f6b6f9f8f020fdb8d0" title="Get horizontal resolution. " alt="" coords="678,512,750,539"/>
+<area shape="rect" id="node12" href="$vc_8c.html#a1c1b9a9c811575beb06fc355241ef17d" title="Get vertical resolution. " alt="" coords="678,563,750,589"/>
+<area shape="rect" id="node14" href="$group__keyboard.html#ga9453fe291021234b7acdb48b9153e042" title="reads the specified field of the status register " alt="" coords="439,107,581,133"/>
+<area shape="rect" id="node16" href="$game_8c.html#aa814c1223e4515e27932c51a7f912f46" title="Check the scancode read from the keyboard to determine next action to take. " alt="" coords="451,968,569,995"/>
+<area shape="rect" id="node17" href="$game_8c.html#a3aa72275b77c585d13d35329ea363b5f" title="Checks if the input of a letter by the user corresponds to the one at index i in the sentence..." alt="" coords="460,1019,560,1045"/>
+<area shape="rect" id="node21" href="$rtc_8c.html#ae2d4030307cef7e5e87606f7e09be07b" title="Subscribes interrupts to the RTC. " alt="" coords="459,461,561,488"/>
+<area shape="rect" id="node22" href="$game_8c.html#a06326bc3ce2fdfe90cb6eb3172159fd0" title="Draw Menu&#39;s components on screen depending on the position/pressed buttons of the mouse..." alt="" coords="455,360,565,387"/>
+<area shape="rect" id="node23" href="$vc_8c.html#a0cf63b55241db8e042bd55d93901566d" title="Draws an XPM on the screen at specified coordinates. " alt="" coords="652,664,776,691"/>
+<area shape="rect" id="node24" href="$vc_8c.html#a55c5883685bf347fccf094f10aa399e8" title="Get double buffer. " alt="" coords="651,715,777,741"/>
+<area shape="rect" id="node25" href="$vc_8c.html#a7ee6e37a02a10a3a6a0b8994b0cc01a2" title="Perform double buffering &#45; copy contents of the back buffer to the frame buffer. " alt="" coords="655,613,773,640"/>
+<area shape="rect" id="node27" href="$game_8c.html#a1ccca907138b5e9af2569d8c0732b74b" title="Displays a 3 2 1 counter before the start of the game mode. " alt="" coords="463,867,557,893"/>
+<area shape="rect" id="node28" href="$game_8c.html#a1584348a343494bd3b81c20776dde34b" title="Draw the initial game components for the Classic Mode on the screen. " alt="" coords="449,664,571,691"/>
+<area shape="rect" id="node29" href="$game_8c.html#a428244ddf0eb2af89871387d2b7b8abd" title="Calculates statistics to send to resultScreen() to display. " alt="" coords="441,715,579,741"/>
+<area shape="rect" id="node30" href="$game_8c.html#ae2c313c74afd4c1d014957c8a8ad3f19" title="Draw game components for Classic Mode on screen. " alt="" coords="447,613,573,640"/>
+<area shape="rect" id="node32" href="$game_8c.html#a4923d4462686f737bb06f5b0b7a2e596" title="Draw the initial game components for the Timed Mode on the screen. " alt="" coords="453,563,567,589"/>
+<area shape="rect" id="node33" href="$game_8c.html#af509280765b24e1f64cf2b348fdb4395" title="Calculates statistics to send to resultScreenTimed() to display. " alt="" coords="423,411,597,437"/>
+<area shape="rect" id="node34" href="$game_8c.html#a530d0e0b6bcbf9dafa1bf9e3afd37259" title="Draw game components for Timed Mode on screen. " alt="" coords="451,512,569,539"/>
+<area shape="rect" id="node36" href="$sentences_8c.html#a7e23ebebd89544f52813761ecd3aba09" title="Implement itoa() from C &#45; convert a value in a specific base to an array of chars. " alt="" coords="693,791,735,817"/>
+<area shape="rect" id="node38" href="$structletter.html#ac632f0e58c93e01b2bfbb3015c8de34f" title="The char associated with the letter. " alt="" coords="670,81,758,108"/>
+<area shape="rect" id="node39" href="$highscores_8c.html#a9cc451c6c5bd05490178df678c552d5e" title="Check if the new score is better that the ones in the highscoresr. " alt="" coords="659,132,769,159"/>
+<area shape="rect" id="node40" href="$highscores_8c.html#aa0554cad4100add1f942caa4d17f5efa" title="Add new highscore to highscores. " alt="" coords="645,183,783,209"/>
+<area shape="rect" id="node42" href="$vc_8c.html#a87ed620696016e546afba21d658621d8" title="Draws the name of a player (username) " alt="" coords="669,892,759,919"/>
+</map>

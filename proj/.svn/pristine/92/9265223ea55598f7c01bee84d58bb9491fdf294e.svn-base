@@ -1,0 +1,11 @@
+<map id="timedModeStart" name="timedModeStart">
+<area shape="rect" id="node2" href="$vc_8c.html#a0cf63b55241db8e042bd55d93901566d" title="Draws an XPM on the screen at specified coordinates. " alt="" coords="392,37,516,64"/>
+<area shape="rect" id="node4" href="$vc_8c.html#a55c5883685bf347fccf094f10aa399e8" title="Get double buffer. " alt="" coords="193,37,319,64"/>
+<area shape="rect" id="node5" href="$vc_8c.html#a10e416c59639a7f6b6f9f8f020fdb8d0" title="Get horizontal resolution. " alt="" coords="220,88,292,114"/>
+<area shape="rect" id="node6" href="$vc_8c.html#a1c1b9a9c811575beb06fc355241ef17d" title="Get vertical resolution. " alt="" coords="220,138,292,165"/>
+<area shape="rect" id="node7" href="$game_8c.html#aa2a9eecf722be30effc443be4e32b075" title="Generate a random sentence from a array of sentences. " alt="" coords="168,189,344,216"/>
+<area shape="rect" id="node8" href="$vc_8c.html#a39f0bde9aaab6ed1432749a642471488" title="Draws sentence on the screen at specified coordinates. " alt="" coords="201,240,311,266"/>
+<area shape="rect" id="node10" href="$vc_8c.html#a7ee6e37a02a10a3a6a0b8994b0cc01a2" title="Perform double buffering &#45; copy contents of the back buffer to the frame buffer. " alt="" coords="197,290,315,317"/>
+<area shape="rect" id="node3" href="$vc_8c.html#a82c7d64d78290967cdb6c47aefe16b78" title="Draw a pixel on the screen. " alt="" coords="564,113,648,140"/>
+<area shape="rect" id="node9" href="$vc_8c.html#afbd4aed1170f23b5f48dddd79a957b33" title="Draws a letter on the screen. " alt="" coords="411,138,497,165"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="gameStart" name="gameStart">
+<area shape="rect" id="node2" href="$sentences_8c.html#a698032048ecab0fc46ac97da011e9ee0" title="Fill abc array with the game&#39;s alphabet. " alt="" coords="158,208,245,235"/>
+<area shape="rect" id="node5" href="$sentences_8c.html#a9c190c5de3d7b253b05eff01cc84a109" title="Fill sentences array with the game&#39;s sentences. " alt="" coords="147,56,255,83"/>
+<area shape="rect" id="node7" href="$highscores_8c.html#a7da357b719c8e37b852dbdc6888fdce4" title="Load top 5 highscores from file. If no file exists create one. " alt="" coords="146,107,257,133"/>
+<area shape="rect" id="node8" href="$vc_8c.html#a10e416c59639a7f6b6f9f8f020fdb8d0" title="Get horizontal resolution. " alt="" coords="811,647,883,673"/>
+<area shape="rect" id="node9" href="$vc_8c.html#a1c1b9a9c811575beb06fc355241ef17d" title="Get vertical resolution. " alt="" coords="811,469,883,496"/>
+<area shape="rect" id="node10" href="$vc_8c.html#a35c677977685f08e46a8dc940a1c4e45" title="Sets the Graphics Mode. " alt="" coords="146,5,257,32"/>
+<area shape="rect" id="node13" href="$game_8c.html#a8df558a332b33b1b0be4f15a02438531" title="Load letters,sentences and xpm&#39;s, set graphics mode and start game. " alt="" coords="136,849,267,876"/>
+<area shape="rect" id="node50" href="$game_8c.html#a206f86a751bda60cf0e3fbcfe53d6d68" title="Free space allocated for the sprites. " alt="" coords="156,1559,247,1585"/>
+<area shape="rect" id="node3" href="$structnumber.html#aaf149fe4da7680323aedbb417606561e" title="The char associated with the number. " alt="" coords="361,191,477,217"/>
+<area shape="rect" id="node4" href="$structletter.html#ac632f0e58c93e01b2bfbb3015c8de34f" title="The char associated with the letter. " alt="" coords="608,647,696,673"/>
+<area shape="rect" id="node6" href="$sentences_8c.html#aaa6329c5eeb6b0d2792ae3db5c5bb8a0" title="Allocate space for a two dimensional array of letters. " alt="" coords="315,57,524,98"/>
+<area shape="rect" id="node11" href="$vc_8c.html#afd41fed726d4b51c536ef35d3c40776e" title="Return VBE Mode Information. " alt="" coords="585,27,719,53"/>
+<area shape="rect" id="node12" href="$keyboard_8c.html#a50a84762c05cd5d0f1746b2ebef9b000" title="int" alt="" coords="828,55,867,81"/>
+<area shape="rect" id="node14" href="$timer_8c.html#ac57a7e1140a7e00ad95ac5488d2a671b" title="timer_subscribe_int" alt="" coords="352,951,487,977"/>
+<area shape="rect" id="node15" href="$group__mouse.html#gab70f0bd710edb4b5e9312c3ce2b4777c" title="Enable Data Reporting. " alt="" coords="338,545,501,572"/>
+<area shape="rect" id="node17" href="$group__keyboard.html#ga02884ada1971dbade466081413210b18" title="Subscribes and enables KBC&#39;s interrupts. " alt="" coords="356,1052,483,1079"/>
+<area shape="rect" id="node18" href="$group__mouse.html#ga20285aed4b3ef45812cd967532dd09db" title="Subscribe and enable Mouse&#39;s interrupts. " alt="" coords="347,1103,492,1129"/>
+<area shape="rect" id="node19" href="$mouse_8c.html#aed4404005e4c565ac36656307386e0ac" title="mouse_ih" alt="" coords="380,1204,459,1231"/>
+<area shape="rect" id="node21" href="$game_8c.html#aca85c5fc48080fe3e5fc63cbfd15e3dd" title="Handle mouse movements. " alt="" coords="597,1407,707,1433"/>
+<area shape="rect" id="node23" href="$keyboard_8c.html#aea970a154161a35f6894898a092ed70a" title="kbc_ih" alt="" coords="389,1255,449,1281"/>
+<area shape="rect" id="node25" href="$game_8c.html#a85a521ea3fd3bf532fbaca38a716ed0f" title="Perform game actions according to the game State. " alt="" coords="375,1356,463,1383"/>
+<area shape="rect" id="node28" href="$game_8c.html#a68ec565e0ad3115e9e89f967b0d85aae" title="Handles keyboard interruptions and validates scancodes to write the player&#39;s username. " alt="" coords="373,1305,465,1332"/>
+<area shape="rect" id="node29" href="$timer_8c.html#a91a2072306c68353712a6b771287dc2c" title="timer_int_handler" alt="" coords="359,1407,480,1433"/>
+<area shape="rect" id="node30" href="$game_8c.html#a384fd7bc5dd16b6f904889a9b44d0ca6" title="Draw menu components, buttons and mouse and go to game modes if buttons are pressed. " alt="" coords="373,393,466,420"/>
+<area shape="rect" id="node33" href="$game_8c.html#a6d636c5d37c022c2b68db53b8a4a6b87" title="Draw classic mode sentence,input and handle classic game mode state. " alt="" coords="368,292,471,319"/>
+<area shape="rect" id="node38" href="$game_8c.html#a98389bdfd88eb39ac7e97b7746a86887" title="Draw timed mode sentence,input and handle timed game mode state. " alt="" coords="373,343,466,369"/>
+<area shape="rect" id="node39" href="$game_8c.html#a6b53c7bdd4b90b905dd483f3e7dab7b7" title="Draws the results layout. " alt="" coords="605,799,699,825"/>
+<area shape="rect" id="node40" href="$game_8c.html#ae7ed124302f000fe36828382c93950aa" title="Go to main menu if button is pressed and save score if in Save Score mode. " alt="" coords="366,495,473,521"/>
+<area shape="rect" id="node41" href="$game_8c.html#a7a6196f9ae7dc4d6ac8cc52a16719141" title="Show a screen with the highest scores (top 5) " alt="" coords="588,191,716,217"/>
+<area shape="rect" id="node42" href="$game_8c.html#a26b9c84c114e6513e181679f76a97854" title="Shows a screen with a &quot;buffer&quot; where the user should enter a username to save the score..." alt="" coords="585,849,719,876"/>
+<area shape="rect" id="node43" href="$highscores_8c.html#a95c6dcf639e390bca793f07a378dfbff" title="Save the highscores in a file. " alt="" coords="364,647,475,673"/>
+<area shape="rect" id="node44" href="$sentences_8c.html#a7745112d26b762ba2d12b7f324710869" title="Destroys sentences, letters other related variables. " alt="" coords="324,697,515,724"/>
+<area shape="rect" id="node45" href="$vc_8c.html#a5c9a2ecbe4ff77b9dbe4ff3826682300" title="Free memory allocate for the double buffer. " alt="" coords="355,748,484,775"/>
+<area shape="rect" id="node46" href="$group__mouse.html#ga3ecf823d80520009ae5e0d76ae40a3c3" title="Unsubscribe Mouses&#39;s interrupts. " alt="" coords="340,799,499,825"/>
+<area shape="rect" id="node47" href="$group__keyboard.html#ga1102381e6a9e876e05dd78c58ccb5673" title="Unsubscribes KBC&#39;s interrupts. " alt="" coords="349,849,490,876"/>
+<area shape="rect" id="node48" href="$group__mouse.html#ga8af1c102bf50696674ef14cc377b80cc" title="Enable Data Reporting. " alt="" coords="336,596,503,623"/>
+<area shape="rect" id="node49" href="$timer_8c.html#afabd21de449be154dd65d5fdb2d8045d" title="timer_unsubscribe_int" alt="" coords="345,900,494,927"/>
+<area shape="rect" id="node16" href="$group__mouse.html#gac2d791ac2ef89e466be15a7d07af293c" title="Write a Mouse Command(reg 0xD4) &#45; written as argument of Kbc Write Mouse byte command. " alt="" coords="572,748,732,775"/>
+<area shape="rect" id="node20" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable. " alt="" coords="607,1204,697,1231"/>
+<area shape="rect" id="node22" href="$group__mouse.html#gadd0e2314743caac1dbf4e0b1cc6404a7" title="Construct a packet struct with the bits of a 3 byte packet. " alt="" coords="780,1407,915,1433"/>
+<area shape="rect" id="node24" href="$group__keyboard.html#ga9453fe291021234b7acdb48b9153e042" title="reads the specified field of the status register " alt="" coords="581,1255,723,1281"/>
+<area shape="rect" id="node26" href="$game_8c.html#aa814c1223e4515e27932c51a7f912f46" title="Check the scancode read from the keyboard to determine next action to take. " alt="" coords="593,1305,711,1332"/>
+<area shape="rect" id="node27" href="$game_8c.html#a3aa72275b77c585d13d35329ea363b5f" title="Checks if the input of a letter by the user corresponds to the one at index i in the sentence..." alt="" coords="602,1356,702,1383"/>
+<area shape="rect" id="node31" href="$rtc_8c.html#ae2d4030307cef7e5e87606f7e09be07b" title="Subscribes interrupts to the RTC. " alt="" coords="601,393,703,420"/>
+<area shape="rect" id="node32" href="$game_8c.html#a06326bc3ce2fdfe90cb6eb3172159fd0" title="Draw Menu&#39;s components on screen depending on the position/pressed buttons of the mouse..." alt="" coords="597,495,707,521"/>
+<area shape="rect" id="node34" href="$game_8c.html#a1ccca907138b5e9af2569d8c0732b74b" title="Displays a 3 2 1 counter before the start of the game mode. " alt="" coords="605,343,699,369"/>
+<area shape="rect" id="node35" href="$game_8c.html#a1584348a343494bd3b81c20776dde34b" title="Draw the initial game components for the Classic Mode on the screen. " alt="" coords="591,292,713,319"/>
+<area shape="rect" id="node36" href="$game_8c.html#a428244ddf0eb2af89871387d2b7b8abd" title="Calculates statistics to send to resultScreen() to display. " alt="" coords="583,81,721,108"/>
+<area shape="rect" id="node37" href="$game_8c.html#ae2c313c74afd4c1d014957c8a8ad3f19" title="Draw game components for Classic Mode on screen. " alt="" coords="589,241,715,268"/>
+</map>

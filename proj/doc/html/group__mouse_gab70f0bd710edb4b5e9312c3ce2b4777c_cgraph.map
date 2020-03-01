@@ -1,0 +1,9 @@
+<map id="mouse_enable_data_rep" name="mouse_enable_data_rep">
+<area shape="rect" id="node2" href="$group__mouse.html#gac2d791ac2ef89e466be15a7d07af293c" title="Write a Mouse Command(reg 0xD4) &#45; written as argument of Kbc Write Mouse byte command. " alt="" coords="216,85,376,111"/>
+<area shape="rect" id="node3" href="$group__keyboard.html#gafef77d0b7c2ee5a579ddb0393ad3597c" title="Issues KBC&#39;s read and write commands, after checking the IBF flag. " alt="" coords="439,34,584,61"/>
+<area shape="rect" id="node6" href="$group__keyboard.html#gae9d0239cc864fd704805e47ccda7d55d" title="Write Command Arguments to register 0x60, after checking the IBF flag. " alt="" coords="424,85,599,111"/>
+<area shape="rect" id="node7" href="$group__mouse.html#ga61a09c55d6ae925765830865c5645422" title="Check the acknowledgment byte sent by the mouse controller. " alt="" coords="446,135,577,162"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable. " alt="" coords="873,85,964,111"/>
+<area shape="rect" id="node5" href="$group__keyboard.html#ga9453fe291021234b7acdb48b9153e042" title="reads the specified field of the status register " alt="" coords="665,34,807,61"/>
+<area shape="rect" id="node8" href="$group__keyboard.html#ga075c2cba7a8cbeaa3c3b22660ad81460" title="Read Command from the Output Buffer &#45; in Lab3 reads return value from a KBC command. " alt="" coords="647,135,825,162"/>
+</map>

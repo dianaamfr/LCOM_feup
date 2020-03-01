@@ -1,0 +1,3 @@
+<map id="kbc_read_command_return" name="kbc_read_command_return">
+<area shape="rect" id="node2" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable. " alt="" coords="232,5,323,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="draw_date" name="draw_date">
+<area shape="rect" id="node2" href="$sentences_8c.html#a7e23ebebd89544f52813761ecd3aba09" title="Implement itoa() from C &#45; convert a value in a specific base to an array of chars. " alt="" coords="177,5,220,32"/>
+<area shape="rect" id="node5" href="$vc_8c.html#a0cf63b55241db8e042bd55d93901566d" title="Draws an XPM on the screen at specified coordinates. " alt="" coords="137,56,261,83"/>
+<area shape="rect" id="node7" href="$vc_8c.html#a55c5883685bf347fccf094f10aa399e8" title="Get double buffer. " alt="" coords="136,107,261,133"/>
+<area shape="rect" id="node3" href="$sentences_8c.html#ac8a933084935cebe42203f95291c8834" title="Reverse buffer[i..j] &#45; auxiliar function for itoa() " alt="" coords="319,5,384,32"/>
+<area shape="rect" id="node4" href="$sentences_8c.html#a5caa2956a259c15d67de63fcddff3e57" title="Swap two chars. " alt="" coords="441,5,495,32"/>
+<area shape="rect" id="node6" href="$vc_8c.html#a82c7d64d78290967cdb6c47aefe16b78" title="Draw a pixel on the screen. " alt="" coords="309,56,393,83"/>
+</map>

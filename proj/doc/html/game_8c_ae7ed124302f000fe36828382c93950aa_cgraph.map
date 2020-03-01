@@ -1,0 +1,7 @@
+<map id="back_to_menu" name="back_to_menu">
+<area shape="rect" id="node2" href="$vc_8c.html#a10e416c59639a7f6b6f9f8f020fdb8d0" title="Get horizontal resolution. " alt="" coords="193,5,265,32"/>
+<area shape="rect" id="node3" href="$vc_8c.html#a1c1b9a9c811575beb06fc355241ef17d" title="Get vertical resolution. " alt="" coords="193,56,265,83"/>
+<area shape="rect" id="node4" href="$structletter.html#ac632f0e58c93e01b2bfbb3015c8de34f" title="The char associated with the letter. " alt="" coords="185,107,273,133"/>
+<area shape="rect" id="node5" href="$highscores_8c.html#a9cc451c6c5bd05490178df678c552d5e" title="Check if the new score is better that the ones in the highscoresr. " alt="" coords="174,157,283,184"/>
+<area shape="rect" id="node6" href="$highscores_8c.html#aa0554cad4100add1f942caa4d17f5efa" title="Add new highscore to highscores. " alt="" coords="160,208,297,235"/>
+</map>

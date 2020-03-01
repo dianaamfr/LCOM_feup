@@ -1,0 +1,8 @@
+<map id="mouse_write_command" name="mouse_write_command">
+<area shape="rect" id="node2" href="$group__keyboard.html#gafef77d0b7c2ee5a579ddb0393ad3597c" title="Issues KBC&#39;s read and write commands, after checking the IBF flag. " alt="" coords="228,34,373,61"/>
+<area shape="rect" id="node5" href="$group__keyboard.html#gae9d0239cc864fd704805e47ccda7d55d" title="Write Command Arguments to register 0x60, after checking the IBF flag. " alt="" coords="213,85,388,111"/>
+<area shape="rect" id="node6" href="$group__mouse.html#ga61a09c55d6ae925765830865c5645422" title="Check the acknowledgment byte sent by the mouse controller. " alt="" coords="235,135,366,162"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable. " alt="" coords="663,85,753,111"/>
+<area shape="rect" id="node4" href="$group__keyboard.html#ga9453fe291021234b7acdb48b9153e042" title="reads the specified field of the status register " alt="" coords="454,34,597,61"/>
+<area shape="rect" id="node7" href="$group__keyboard.html#ga075c2cba7a8cbeaa3c3b22660ad81460" title="Read Command from the Output Buffer &#45; in Lab3 reads return value from a KBC command. " alt="" coords="436,135,615,162"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="draw_input_sentence" name="draw_input_sentence">
+<area shape="rect" id="node2" href="$keyboard_8c.html#a50a84762c05cd5d0f1746b2ebef9b000" title="int" alt="" coords="223,5,261,32"/>
+<area shape="rect" id="node3" href="$vc_8c.html#afbd4aed1170f23b5f48dddd79a957b33" title="Draws a letter on the screen. " alt="" coords="199,56,285,83"/>
+<area shape="rect" id="node4" href="$vc_8c.html#a82c7d64d78290967cdb6c47aefe16b78" title="Draw a pixel on the screen. " alt="" coords="333,56,417,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rtc_read_date" name="rtc_read_date">
+<area shape="rect" id="node2" href="$rtc_8c.html#a2612ab4da31e866317aedbbc8cdadbc4" title="Checks if rtc is updating. " alt="" coords="164,5,248,32"/>
+<area shape="rect" id="node3" href="$rtc_8c.html#a8e562473fe7c6e414b655b0edee66138" title="Reads from RTC_DATA_REG what is in port. " alt="" coords="171,56,241,83"/>
+<area shape="rect" id="node4" href="$rtc_8c.html#abbc06d30fa1fc5a86e081a8adff67312" title="Checks if it is in bcd. " alt="" coords="185,107,227,133"/>
+<area shape="rect" id="node5" href="$rtc_8c.html#a372efb1351dcf0468894632441b12e9a" title="Converts num to binary if and only if it is in bcd. " alt="" coords="155,157,257,184"/>
+</map>
